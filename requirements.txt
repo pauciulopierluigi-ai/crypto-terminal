@@ -1,5 +1,5 @@
 streamlit
-pandas
+pandas<2.0.0
 requests
 plotly
-numpy
+numpy<2.0.0
