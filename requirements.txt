@@ -3,4 +3,4 @@ pandas
 requests
 plotly
 numpy
-ta
+matplotlib
